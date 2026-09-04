@@ -31,7 +31,7 @@ export default function Home({ irParaLogin }) {
         <div className="cards">
           <div className="card">
             <span>MONTHLY AVG</span>
-            <div className="valor">€ 850,00</div>
+            <div className="valor">€850,00</div>
             <p>Média estimada para o seu destino.</p>
             <div className="barra"><div className="fill orange" style={{width: '75%'}}></div></div>
           </div>
